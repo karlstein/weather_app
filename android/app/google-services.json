@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730068972747",
+    "project_id": "jccauthflutter",
+    "storage_bucket": "jccauthflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730068972747:android:0a34c952ceaec498d4174e",
+        "android_client_info": {
+          "package_name": "com.example.sanbercode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730068972747-t4169r76nfrf6taiigev2cqcnrf771ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSGd-3cSpZERDO74fAehxTLrDrgVocVtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730068972747-t4169r76nfrf6taiigev2cqcnrf771ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

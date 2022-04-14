@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 107.372,
+    "lat": -6.4133
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 302.14,
+    "feels_like": 306.04,
+    "temp_min": 302.14,
+    "temp_max": 302.14,
+    "pressure": 1010,
+    "humidity": 71,
+    "sea_level": 1010,
+    "grnd_level": 1008
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 0.91,
+    "deg": 10,
+    "gust": 1.27
+  },
+  "clouds": {
+    "all": 58
+  },
+  "dt": 1649732953,
+  "sys": {
+    "country": "ID",
+    "sunrise": 1649717501,
+    "sunset": 1649760641
+  },
+  "timezone": 25200,
+  "id": 1646698,
+  "name": "Cikampek",
+  "cod": 200
+}
