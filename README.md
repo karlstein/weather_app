@@ -1,6 +1,6 @@
 # weather_app
 
-Weather App created to complete JCC chalange phase. Status: Bad UI/UX, Error http 429 - Complete
+Weather App created to complete JCC chalange phase. Status: Bad UI/UX, Fix - Complete
 
 Depedency:
 1. http
