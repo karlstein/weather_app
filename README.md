@@ -12,4 +12,5 @@ Feature:
 
 Screenshoot:
 
-https://live.staticflickr.com/65535/52006880170_d27871f12a_c.jpg
+![This is an image](https://live.staticflickr.com/65535/52006880170_d27871f12a_c.jpg)
+
