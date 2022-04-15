@@ -12,4 +12,4 @@ Feature:
 
 Screenshoot:
 
-https://www.flickr.com/photos/195406861@N02/52006880170/in/dateposted-public/
+https://live.staticflickr.com/65535/52006880170_d27871f12a_c.jpg
